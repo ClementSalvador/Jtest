@@ -1,5 +1,5 @@
 properties([
-    pipelineTriggers([cron('*/2 * * * *')])
+    pipelineTriggers([cron('H/30 * * * *')])
 ])
 
 pipeline {
