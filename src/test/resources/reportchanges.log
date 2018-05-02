@@ -1,0 +1,60 @@
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;2ec901e993a759c5127cacdfb7a39fe14b2c38fc;Rel_01 : création de la class 'Class02';Fri Apr 6 09:55:54 2018 ;NON REPORT DE CODE
++package paquet1;
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;2ec901e993a759c5127cacdfb7a39fe14b2c38fc;Rel_01 : création de la class 'Class02';Fri Apr 6 09:55:54 2018 ;NON REPORT DE CODE
++/**
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;2ec901e993a759c5127cacdfb7a39fe14b2c38fc;Rel_01 : création de la class 'Class02';Fri Apr 6 09:55:54 2018 ;NON REPORT DE CODE
++ * Objet Class02
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;2ec901e993a759c5127cacdfb7a39fe14b2c38fc;Rel_01 : création de la class 'Class02';Fri Apr 6 09:55:54 2018 ;NON REPORT DE CODE
++ * @author clement.salvador
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;2ec901e993a759c5127cacdfb7a39fe14b2c38fc;Rel_01 : création de la class 'Class02';Fri Apr 6 09:55:54 2018 ;NON REPORT DE CODE
++ *
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;2ec901e993a759c5127cacdfb7a39fe14b2c38fc;Rel_01 : création de la class 'Class02';Fri Apr 6 09:55:54 2018 ;NON REPORT DE CODE
++ */
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;2ec901e993a759c5127cacdfb7a39fe14b2c38fc;Rel_01 : création de la class 'Class02';Fri Apr 6 09:55:54 2018 ;NON REPORT DE CODE
++public class Class02 {
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;3976e4e16976906a73e84618e4e0cdda201d0ad7;Rel_01 : Class02, création de la méthode 'c02Methode01';Fri Apr 6 09:58:42 2018 ;NON REPORT DE CODE
++	/**
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;2ec901e993a759c5127cacdfb7a39fe14b2c38fc;Rel_01 : création de la class 'Class02';Fri Apr 6 09:55:54 2018 ;NON REPORT DE CODE
++	 * Constructeur simple de Class02
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;3976e4e16976906a73e84618e4e0cdda201d0ad7;Rel_01 : Class02, création de la méthode 'c02Methode01';Fri Apr 6 09:58:42 2018 ;NON REPORT DE CODE
++	 */
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;2ec901e993a759c5127cacdfb7a39fe14b2c38fc;Rel_01 : création de la class 'Class02';Fri Apr 6 09:55:54 2018 ;NON REPORT DE CODE
++	public Class02(){
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;2ec901e993a759c5127cacdfb7a39fe14b2c38fc;Rel_01 : création de la class 'Class02';Fri Apr 6 09:55:54 2018 ;NON REPORT DE CODE
++		//Construit un objet Class02
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;3976e4e16976906a73e84618e4e0cdda201d0ad7;Rel_01 : Class02, création de la méthode 'c02Methode01';Fri Apr 6 09:58:42 2018 ;NON REPORT DE CODE
++	}
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;3976e4e16976906a73e84618e4e0cdda201d0ad7;Rel_01 : Class02, création de la méthode 'c02Methode01';Fri Apr 6 09:58:42 2018 ;NON REPORT DE CODE
++	/**
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;3976e4e16976906a73e84618e4e0cdda201d0ad7;Rel_01 : Class02, création de la méthode 'c02Methode01';Fri Apr 6 09:58:42 2018 ;NON REPORT DE CODE
++	 * Methode de Class02
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;3976e4e16976906a73e84618e4e0cdda201d0ad7;Rel_01 : Class02, création de la méthode 'c02Methode01';Fri Apr 6 09:58:42 2018 ;NON REPORT DE CODE
++	 */
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;3976e4e16976906a73e84618e4e0cdda201d0ad7;Rel_01 : Class02, création de la méthode 'c02Methode01';Fri Apr 6 09:58:42 2018 ;NON REPORT DE CODE
++	public void c02Methode01(){
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;3976e4e16976906a73e84618e4e0cdda201d0ad7;Rel_01 : Class02, création de la méthode 'c02Methode01';Fri Apr 6 09:58:42 2018 ;NON REPORT DE CODE
++		//corps de la m�thode c02Methode01
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;3976e4e16976906a73e84618e4e0cdda201d0ad7;Rel_01 : Class02, création de la méthode 'c02Methode01';Fri Apr 6 09:58:42 2018 ;NON REPORT DE CODE
++	}
+
+GitVC;SALVADOR<clement.salvador@cgi.com>;/src/paquet1/Class02.java;2ec901e993a759c5127cacdfb7a39fe14b2c38fc;Rel_01 : création de la class 'Class02';Fri Apr 6 09:55:54 2018 ;NON REPORT DE CODE
++}
+

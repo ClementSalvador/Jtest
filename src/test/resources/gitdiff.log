@@ -1,0 +1,28 @@
+diff --git a/src/paquet1/Class02.java b/src/paquet1/Class02.java
+new file mode 100644
+index 0000000..a0564af
+--- /dev/null
++++ b/src/paquet1/Class02.java
+@@ -0,0 +1,22 @@
++package paquet1;
++/**
++ * Objet Class02
++ * @author clement.salvador
++ *
++ */
++public class Class02 {
++	
++	/**
++	 * Constructeur simple de Class02
++	 */
++	public Class02(){
++		//Construit un objet Class02
++	}
++	
++	/**
++	 * Methode de Class02
++	 */
++	public void c02Methode01(){
++		//corps de la méthode c02Methode01
++	}
++}

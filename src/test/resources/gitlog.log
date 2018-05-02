@@ -1,0 +1,50 @@
+commit 3976e4e16976906a73e84618e4e0cdda201d0ad7
+Author: SALVADOR <clement.salvador@cgi.com>
+Date:   Fri Apr 6 09:58:42 2018 +0200
+
+    Rel_01 : Class02, création de la méthode 'c02Methode01'
+
+diff --git a/src/paquet1/Class02.java b/src/paquet1/Class02.java
+index 58954f3..a0564af 100644
+--- a/src/paquet1/Class02.java
++++ b/src/paquet1/Class02.java
+@@ -12,4 +12,11 @@ public class Class02 {
+ 	public Class02(){
+ 		//Construit un objet Class02
+ 	}
++	
++	/**
++	 * Methode de Class02
++	 */
++	public void c02Methode01(){
++		//corps de la m�thode c02Methode01
++	}
+ }
+
+commit 2ec901e993a759c5127cacdfb7a39fe14b2c38fc
+Author: SALVADOR <clement.salvador@cgi.com>
+Date:   Fri Apr 6 09:55:54 2018 +0200
+
+    Rel_01 : création de la class 'Class02'
+
+diff --git a/src/paquet1/Class02.java b/src/paquet1/Class02.java
+new file mode 100644
+index 0000000..58954f3
+--- /dev/null
++++ b/src/paquet1/Class02.java
+@@ -0,0 +1,15 @@
++package paquet1;
++/**
++ * Objet Class02
++ * @author clement.salvador
++ *
++ */
++public class Class02 {
++	
++	/**
++	 * Constructeur simple de Class02
++	 */
++	public Class02(){
++		//Construit un objet Class02
++	}
++}
